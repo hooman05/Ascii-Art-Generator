@@ -14,3 +14,4 @@ turns images into Ascii art
 discord.py は機能豊富かつモダンで使いやすい、非同期処理にも対応したDiscord用のAPIラッパーです。
 
 主な特徴
+-------------
