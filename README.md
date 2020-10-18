@@ -18,4 +18,4 @@ make sure the image you are going to convert to ASCII is in the same directory a
 
 e.g.
 
-    input filename with extention e.g.[.png / .jpg ect.]=> example.jpg
+    input filename with extention e.g.[.png / .jpg ect.] 
