@@ -9,7 +9,7 @@ install modules
 ---
 
 open cmd and with the directory set to the same as the python file,
-enter this into the prompt:
+enter this into the prompt to install the requirements:
 
 `python -m pip install -r requirements.txt`
 
